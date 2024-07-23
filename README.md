@@ -1,2 +1,5 @@
-# lol-auto-queue-accept
-automatically accept queue via API
+## requirements
+
+```bash
+$ pip install lcu-driver
+```
